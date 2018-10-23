@@ -10,7 +10,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Login</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">''
     <link rel="stylesheet" type="text/css" media="screen" href="login_style.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="input-box-style.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="button-style.css" />
@@ -22,8 +22,8 @@
     <div id="nav-bar" class="navbar">
         <ul>
             <li><a href="home.php">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
             <li style="float:right;"><a href="#">Signup</a></li>
         </ul>
     </div>

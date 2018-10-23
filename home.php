@@ -17,6 +17,19 @@
             <li style="float:right;"><a href="login.php">Login</a></li>
         </ul>
     </div>
+
+    <section id="about">
+
+    </section>
+
+    <section id="contact">
+        
+    </section>
+
+    
+    <footer>
+        
+    </footer>
     
 </body>
 </html>
