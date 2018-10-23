@@ -9,6 +9,7 @@
 <body>
     <center>
         <h1>REDIRECTING...</h1>
+        <?php header("Location:home.php"); ?>
     </center>
 </body>
 </html>

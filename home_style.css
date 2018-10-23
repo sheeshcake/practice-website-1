@@ -1,0 +1,40 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url("assets/background.jpg");
+    background-size: 100%;  
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+/* Navigation Bar Style */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 30px 30px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.navbar{
+    box-shadow: 0px 2px 15px #111;
+    margin-bottom: 5%;
+}
