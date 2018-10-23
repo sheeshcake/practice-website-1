@@ -12,8 +12,8 @@
     <div id="nav-bar" class="navbar">
         <ul>
             <li><a href="#">HalfByte</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
             <li style="float:right;"><a href="login.php">Login</a></li>
         </ul>
     </div>
@@ -26,7 +26,7 @@
         
     </section>
 
-    
+
     <footer>
         
     </footer>

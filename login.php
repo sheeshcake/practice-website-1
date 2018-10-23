@@ -22,8 +22,8 @@
     <div id="nav-bar" class="navbar">
         <ul>
             <li><a href="home.php">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li><a href="home.php#about">About</a></li>
+            <li><a href="home.php#contact">Contact</a></li>
             <li style="float:right;"><a href="#">Signup</a></li>
         </ul>
     </div>
